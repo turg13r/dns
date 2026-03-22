@@ -148,11 +148,6 @@ automake: # obagaming@gmail.com U0A1G9F445D
     type: A
     value: 216.198.79.1
 
-builders-club: #turtlesy1234@gmail.com U0AM2DYC3FB
-  - ttl: 600
-    type: CNAME
-    value: builders-club-henna.vercel.app.
-
 baguette: # blog
   ttl: 600
   type: CNAME
@@ -182,7 +177,12 @@ bs: # by https://github.com/leecheeyong/BrawlBio
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
-  
+
+builders-club: #turtlesy1234@gmail.com U0AM2DYC3FB
+  - ttl: 600
+    type: CNAME
+    value: builders-club-henna.vercel.app.
+
 cad: # by https://github.com/leecheeyong/community-widgets
   ttl: 600
   type: CNAME
