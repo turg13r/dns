@@ -465,6 +465,11 @@ icons: # yoda - https://github.com/yodalightsabr/icons-dino-icu - a CDN for @hac
   ttl: 600
   type: A
   value: 76.76.21.21
+
+inherit: # mtthsschrbr@proton.me
+  - ttl: 600
+    type: CNAME
+    value: cname.vercel-dns.com.
   
 innohacks: #efe
   ttl: 600
