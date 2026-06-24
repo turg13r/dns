@@ -257,11 +257,6 @@ bsky: # andreijiroh@alumni.dino.icu https://github.com/hackclub-alumni/meta
   type: CNAME
   value: proxyparty.recaptime.dev.
 
-builders-club: #turtlesy1234@gmail.com U0AM2DYC3FB
-- ttl: 600
-  type: CNAME
-  value: builders-club-henna.vercel.app.
-
 cad: # by https://github.com/leecheeyong/community-widgets
   ttl: 600
   type: CNAME
